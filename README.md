@@ -99,7 +99,7 @@ Uses a CTE to dynamically identify the breaching department and account combinat
 ## Files
 
 ```
-└── Mazaya_SQL_script.sql
+└── Mazaya_SQL_Script.sql
 ```
 
 ---
